@@ -1,0 +1,1 @@
+taskkill /f /im DimensionalBossMacro1.74.exe
