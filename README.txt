@@ -10,9 +10,10 @@ VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 =====================================
-Ver 1.04 Changelog (TBD)
+Ver 1.1 Changelog
 
-Add a delay in sell equipment function
+Added new application context
+Added HardwareID to the Dashboard
 
 =====================================
 
