@@ -10,6 +10,11 @@ VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 =====================================
+Ver 1.04 Changelog (TBD)
+
+Add a delay in sell equipment function
+
+=====================================
 
 Ver 1.03 Changelog:
 
