@@ -10,6 +10,15 @@ VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 =====================================
+Ver 1.12 Changelog
+
+Optional patch tweak, you don't need to download this patch if you don't need these changes.
+
+I realize that many chaser don't expedition boss / don't have x2 expedition / are unlucky, so the lack of Gardosen is huge. Therefore, an option called "Troll Option" has been added to the Dashboard, which you can specify whether to summon Troll in 5/5 if you don't have Gardosen for that day, or 0/5 if you have 5 Gardosen for the day (leave it as default if you dont want to change anything)
+
+Reduce the number of Auto Sell, now it will sell every 30 boss kills instead of 50 boss kills (many chaser don't expand the inventory, hence the change)
+
+=====================================
 Ver 1.11 Changelog
 
 Added a delay in Accessory collect and Auto sell for low-end or slow network machine (It won't help if your PC is from Tong Dynasty)
