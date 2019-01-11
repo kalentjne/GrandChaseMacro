@@ -10,6 +10,14 @@ VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 =====================================
+Ver 1.11 Changelog
+
+Added a delay in Accessory collect and Auto sell for low-end or slow network machine (It won't help if your PC is from Tong Dynasty)
+Added some popups for app readiness
+Added a logic operation if boss screen check is failed
+
+
+=====================================
 Ver 1.1 Changelog
 
 Added new application context
