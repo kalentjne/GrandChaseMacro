@@ -1,5 +1,4 @@
-REMEMBER TO CHECK NOX KEY BINDING
-Set opacity = 0
+REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
 Set NOX resolution to 1280x720
 Set game language to English
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
@@ -9,6 +8,15 @@ Donation Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
+
+=====================================
+Ver 1.13 Changelog
+
+Added auto collect mail (at the beginning of script and every 150 accessories received)
+Auto sell will now sell 1-7 equipment and 1-3 accessories
+Split auto sell equipment and accessory
+Added check patrol - will not participate in boss battle if there is still accessory to collect
+
 =====================================
 Ver 1.12 Changelog
 
