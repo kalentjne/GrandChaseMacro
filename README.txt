@@ -1,4 +1,5 @@
 REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
+Install .net framework 4.7.2
 Set NOX resolution to 1280x720
 Set game language to English
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
