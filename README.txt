@@ -1,5 +1,4 @@
 REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
-Install .net framework 4.7.2
 Set NOX resolution to 1280x720
 Set game language to English
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
@@ -9,6 +8,13 @@ Donation Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
+=====================================
+Ver 1.14 Changelog
+
+Enhance code readiness & speed
+Added Select Nox Folder Dialog (mandatory), locate Nox.exe bin directory, just like the example and you are good to go
+You don't need to set any resolution, dpi, language for Nox, the auto will set it for you
+Nox will automatically restart 10 times, after network disconnect / Nox force close / Game force close, after 10 retries, Nox will be closed permanently and auto will end
 
 =====================================
 Ver 1.13 Changelog
