@@ -1,15 +1,26 @@
+REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
+Set NOX resolution to 1280x720
 Set game language to English
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
-
+Password for zip file: gpkeith
 
 Donation Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
+
+=====================================
+Ver 1.15 Changelog
+
+Enhance macro speed
+Nox will auto-close if you have previously opened Default Nox. If Private Nox has been opened previously, the macro will use that instance instead of creating new one.
+Fix various bugs from previous version
+
 =====================================
 Ver 1.14 Changelog
 
 Enhance code readiness & speed
+Added auto shutdown
 Added Select Nox Folder Dialog (mandatory), locate Nox.exe bin directory, just like the example and you are good to go
 You don't need to set any resolution, dpi, language for Nox, the auto will set it for you
 Nox will automatically restart 10 times, after network disconnect / Nox force close / Game force close, after 10 retries, Nox will be closed permanently and auto will end
