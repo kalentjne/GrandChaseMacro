@@ -10,6 +10,19 @@ ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
 =====================================
+1.16 changelog
+
+*Added Nox failed Restart / Shutdown option in Dashboard
+*Restart will try again if nox failed. Shutdown would force the computer to shutdown.
+
+*Added auto expedition.
+Leave 5 expedition for the auto to collect, and it will auto collect again after 8 hours. If you leave only 4 slots, it will check every 1 hour.
+
+*x3 auto speed, code logic rewritten and enhancements
+
+*Various bug fixes from previous version
+
+=====================================
 Ver 1.15 Changelog
 
 Enhance macro speed
