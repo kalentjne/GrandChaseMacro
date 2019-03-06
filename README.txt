@@ -10,6 +10,10 @@ ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
 =====================================
+1.17 changelog
+*Added a logic to not summon when there is no boss card
+
+=====================================
 1.16 changelog
 
 *Added Nox failed Restart / Shutdown option in Dashboard
