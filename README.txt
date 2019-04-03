@@ -2,9 +2,9 @@ REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
 Set NOX resolution to 1280x720
 Set game language to English
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
-Password for zip file: gpkeith
 
-Donation Info:
+
+Licensing Info: contact https://www.facebook.com/hieuvt137 (10$/license permanent upgrade)
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
