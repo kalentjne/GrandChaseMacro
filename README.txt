@@ -10,6 +10,11 @@ ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
 =====================================
+1.18 changelog
+*Optimize party skill and hero skill use
+*New equipment sell method
+
+=====================================
 1.17 changelog
 *Added a logic to not summon when there is no boss card
 
