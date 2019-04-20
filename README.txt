@@ -4,7 +4,15 @@ Set game language to English
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
 
 
-Licensing Info: contact https://www.facebook.com/hieuvt137 (10$/license permanent upgrade)
+Licensing Info: 
+License VMWare 100$/Maximum 10 Accounts - life time upgrade
+License PC 10$/230k/PC life time upgrade 
+
+Contact Info:
+Facebook: https://www.facebook.com/hieuvt137 
+Discord: KeithWong#9177
+
+Payment Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
