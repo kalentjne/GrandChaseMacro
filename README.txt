@@ -1,4 +1,3 @@
-Version=1.19
 
 REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
 Set NOX resolution to 1280x720
@@ -18,6 +17,10 @@ Payment Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
+=====================================
+1.19 changelog
+Added Auto Update
+
 
 =====================================
 1.18 changelog
