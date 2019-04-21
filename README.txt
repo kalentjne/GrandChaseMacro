@@ -1,4 +1,4 @@
-Version=1.18
+Version=1.19
 
 REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
 Set NOX resolution to 1280x720
