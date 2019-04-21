@@ -1,3 +1,5 @@
+Version=1.18
+
 REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
 Set NOX resolution to 1280x720
 Set game language to English
