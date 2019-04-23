@@ -1,6 +1,10 @@
 
-REMEMBER TO CHECK NOX KEY BINDING --> Set opacity = 0
-Set NOX resolution to 1280x720
+INITIAL SETUP GUIDE:
+
+Update/ Download Latest Nox, use Android 7 emulator
+Install .Net 4.7.2
+NOX KEY BINDING --> Set opacity = 0
+Enable VT to ensure Nox Performance
 Set game language to English
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
 
@@ -17,6 +21,11 @@ Payment Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
+=====================================
+1.20 changelog
+Auto Update logic enhancement
+Added Nox Instance number and Nox performance template selector
+
 =====================================
 1.19 changelog
 Added Auto Update
