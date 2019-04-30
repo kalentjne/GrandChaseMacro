@@ -21,6 +21,10 @@ Payment Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
+
+=====================================
+1.21 changelog
+Added Edel's ultimate
 =====================================
 1.20 changelog
 Auto Update logic enhancement
