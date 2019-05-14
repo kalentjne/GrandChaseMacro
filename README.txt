@@ -1,12 +1,15 @@
 
 INITIAL SETUP GUIDE:
 
-Update/ Download Latest Nox, use Android 7 emulator
+Update/ Download Latest Nox, use Android 5 or 7 emulator
 Install .Net 4.7.2
 NOX KEY BINDING --> Set opacity = 0
 Enable VT to ensure Nox Performance
 Set game language to English
+Turn off chat / notification in Grand Chase game Setting
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
+1st time start of the macro, choose the preferences you want, and press Save, then Start
+2nd time onward, no need to choose preferences, just press Start.
 
 
 Licensing Info: 
