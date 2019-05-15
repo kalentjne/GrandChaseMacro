@@ -28,6 +28,11 @@ ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
 =====================================
+1.22 changelog
+Added Elesis's Kimono Ultimate and Lb Ultimate
+Added Edel's Frost Ultimate
+
+=====================================
 1.21 changelog
 Added Edel's ultimate
 =====================================
