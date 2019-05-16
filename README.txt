@@ -1,6 +1,12 @@
+ATTENTION:
+Only works for Nox
+Require .Net Framework 4.7.2
+Lowest Resolution of 1366 x 768
+Only English is supported
+This macro is mouse interfered. 
 
+=========================================================================================
 INITIAL SETUP GUIDE:
-
 Update/ Download Latest Nox, use Android 5 or 7 emulator
 Install .Net 4.7.2
 NOX KEY BINDING --> Set opacity = 0
@@ -12,30 +18,34 @@ Turn off chat / notification in Grand Chase game Setting
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
 1st time start of the macro, choose the preferences you want, and press Save, then Start
 2nd time onward, no need to choose preferences, just press Start.
-
+========================================================================================
 
 Licensing Info: 
 License VMWare 100$/Maximum 10 Accounts - life time upgrade
 License PC 10$/230k/PC life time upgrade 
-
+========================================================================================
 Contact Info:
 Facebook: https://www.facebook.com/hieuvt137 
 Discord: KeithWong#9177
-
+License PC 10$/230k/PC life time upgrade 
+========================================================================================
 Payment Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
-=====================================
+License PC 10$/230k/PC life time upgrade 
+========================================================================================
 1.22 changelog
 Added Elesis's Kimono Ultimate and Lb Ultimate
 Added Edel's Frost Ultimate
 
-=====================================
+License PC 10$/230k/PC life time upgrade 
+========================================================================================
 1.21 changelog
 Added Edel's ultimate
-=====================================
+License PC 10$/230k/PC life time upgrade 
+========================================================================================
 1.20 changelog
 Auto Update logic enhancement
 Added Nox Instance number and Nox performance template selector
@@ -45,16 +55,19 @@ Added Nox Instance number and Nox performance template selector
 Added Auto Update
 
 
-=====================================
+License PC 10$/230k/PC life time upgrade 
+========================================================================================
 1.18 changelog
 *Optimize party skill and hero skill use
 *New equipment sell method
 
-=====================================
+License PC 10$/230k/PC life time upgrade 
+========================================================================================
 1.17 changelog
 *Added a logic to not summon when there is no boss card
 
-=====================================
+License PC 10$/230k/PC life time upgrade 
+========================================================================================
 1.16 changelog
 
 *Added Nox failed Restart / Shutdown option in Dashboard
