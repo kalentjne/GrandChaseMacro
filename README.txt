@@ -34,7 +34,11 @@ VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
-License PC 10$/230k/PC life time upgrade 
+
+========================================================================================
+1.23 changelog
+Update for world 5
+
 ========================================================================================
 1.22 changelog
 Added Elesis's Kimono Ultimate and Lb Ultimate
