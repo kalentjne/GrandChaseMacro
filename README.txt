@@ -34,6 +34,10 @@ VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
+========================================================================================
+1.24 changelog
+Enhance NOX login logic
+Enhance Boss summon logic
 
 ========================================================================================
 1.23 changelog
