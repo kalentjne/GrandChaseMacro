@@ -35,6 +35,10 @@ ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
 ========================================================================================
+1.25 changelog
+Fixed some bugs with Nox auto login
+
+========================================================================================
 1.24 changelog
 Enhance NOX login logic
 Enhance Boss summon logic
