@@ -1,12 +1,5 @@
-ATTENTION:
-Only works for Nox
-Require .Net Framework 4.7.2
-Lowest Resolution of 1366 x 768
-Only English is supported
-This macro is mouse interfered. 
-
-=========================================================================================
-INITIAL SETUP GUIDE:
+==============================INITIAL SETUP GUIDE:======================================
+========================================================================================
 Update/ Download Latest Nox, use Android 5 or 7 emulator
 Install .Net 4.7.2
 NOX KEY BINDING --> Set opacity = 0
@@ -18,25 +11,34 @@ Turn off chat / notification in Grand Chase game Setting
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar
 1st time start of the macro, choose the preferences you want, and press Save, then Start
 2nd time onward, no need to choose preferences, just press Start.
-========================================================================================
+Lowest Resolution of 1366 x 768
+Only English is supported
+This macro is mouse interfered. 
 
+
+============================LICENSE PRICE==============================================
+========================================================================================
 Licensing Info: 
 License VMWare 100$/Maximum 10 Accounts - life time upgrade
 License PC 10$/230k/PC life time upgrade 
+
+============================CONTACT AND SUPPORT=========================================
 ========================================================================================
-Contact Info:
 Facebook: https://www.facebook.com/hieuvt137 
 Discord: KeithWong#9177
-License PC 10$/230k/PC life time upgrade 
+
+============================PAYMENT INFO===============================================
 ========================================================================================
 Payment Info:
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 https://paypal.me/hieuvt137
 
+============================= RELEASE NOTE =============================================
 ========================================================================================
 1.25 changelog
 Fixed some bugs with Nox auto login
+Updated with Nox 6.2.8.3 and Game 1.15.5
 
 ========================================================================================
 1.24 changelog
