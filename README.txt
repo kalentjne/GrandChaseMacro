@@ -36,6 +36,12 @@ https://paypal.me/hieuvt137
 
 ============================= RELEASE NOTE =============================================
 ========================================================================================
+
+1.26 & 1.27 changelog
+Fixed some bugs with Nox auto login
+Enhance party skill usage
+
+========================================================================================
 1.25 changelog
 Fixed some bugs with Nox auto login
 Updated with Nox 6.2.8.3 and Game 1.15.5
