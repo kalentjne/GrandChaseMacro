@@ -35,7 +35,7 @@ This macro is mouse interfered.
 ========================================================================================
 
 
-2.0 changelog
+1.29 changelog
 Change main Android emulator from Nox to Bluestacks 4
 Fixed display issue of Dashboard's preference
 Enhance Macro speed
