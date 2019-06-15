@@ -1,21 +1,3 @@
-==============================INITIAL SETUP GUIDE:======================================
-========================================================================================
-Update/ Download Latest Nox, use Android 5 or 7 emulator
-Install .Net 4.7.2
-NOX KEY BINDING --> Set opacity = 0
-Set Nox Language to English
-Enable VT to ensure Nox Performance
-Download Game (HD)
-Set game language to English
-Turn off chat / notification in Grand Chase game Setting
-For which hero you choose to use ultimate - please equip him/her with default 6* avatar
-1st time start of the macro, choose the preferences you want, and press Save, then Start
-2nd time onward, no need to choose preferences, just press Start.
-Lowest Resolution of 1366 x 768
-Only English is supported
-This macro is mouse interfered. 
-
-
 ============================LICENSE PRICE==============================================
 ========================================================================================
 Licensing Info: 
@@ -30,13 +12,35 @@ Discord: KeithWong#9177
 ============================PAYMENT INFO===============================================
 ========================================================================================
 Payment Info:
+https://paypal.me/hieuvt137
 VCB CN HCM Vuong Trung Hieu 0071001096472
 ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
-https://paypal.me/hieuvt137
+
+==============================INITIAL SETUP GUIDE:======================================
+========================================================================================
+Always update/ download Latest Bluestacks 4 (Android 7 Nougat)
+Install .Net 4.7.2
+Turn off Bluestacks key binding visibility (F6)
+Set Bluestacks language to English
+Enable VT to ensure Bluestacks Performance
+Download Game (HD)
+Set game language to English
+Turn off chat / notification in Grand Chase game Setting
+For which hero you choose to use ultimate - please equip him/her with default 6* avatar (except Elesis, all skins are supported)
+Lowest resolution of your screen must be 1440 x 900
+Only English is supported
+This macro is mouse interfered. 
 
 ============================= RELEASE NOTE =============================================
 ========================================================================================
 
+
+2.0 changelog
+Change main Android emulator from Nox to Bluestacks 4
+Fixed display issue of Dashboard's preference
+Enhance Macro speed
+
+========================================================================================
 1.26 & 1.27 changelog
 Fixed some bugs with Nox auto login
 Enhance party skill usage
