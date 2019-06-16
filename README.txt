@@ -34,6 +34,13 @@ Only English is supported
 This macro is mouse interfered. 
 
 ============================= RELEASE NOTE =============================================
+
+
+========================================================================================
+1.31 changelog
+Enhance report function
+
+
 ========================================================================================
 1.30 changelog
 Added Bug Report button, will open Discord channel to report bug
