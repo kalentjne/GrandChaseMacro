@@ -36,8 +36,11 @@ This macro is mouse interfered.
 
 ============================= RELEASE NOTE =============================================
 ========================================================================================
+1.30 changelog
+Added Bug Report button, will open Discord channel to report bug
+Enhance macro speed at game login
 
-
+========================================================================================
 1.29 changelog
 Change main Android emulator from Nox to Bluestacks 4
 Fixed display issue of Dashboard's preference
