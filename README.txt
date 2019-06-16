@@ -20,7 +20,7 @@ ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 ========================================================================================
 Always update/ download Latest Bluestacks 4 (Android 7 Nougat)
 Install .Net 4.7.2
-Lowest resolution of your screen must be 1366 x 768
+Lowest resolution of your screen must be 1440 x 900, if you have lower, follow this article https://www.lifewire.com/how-to-change-your-netbooks-screen-resolution-2377863
 Go to Window Display Setting (Right Click) --> Scale and layout --> Set it to 100% (default setting)
 Turn off Bluestacks key binding visibility (F6)
 Set Bluestacks language to English
@@ -30,7 +30,6 @@ Download Game (HD)
 Set game language to English
 Turn off chat / notification in Grand Chase game Setting
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar (except Elesis, all skins are supported)
-Lowest resolution of your screen must be 1440 x 900
 Only English is supported
 This macro is mouse interfered. 
 
