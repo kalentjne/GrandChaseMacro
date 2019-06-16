@@ -22,6 +22,7 @@ Always update/ download Latest Bluestacks 4 (Android 7 Nougat)
 Install .Net 4.7.2
 Turn off Bluestacks key binding visibility (F6)
 Set Bluestacks language to English
+Set Bluestacks resolution to 1280x720 @320dpi
 Enable VT to ensure Bluestacks Performance
 Download Game (HD)
 Set game language to English
