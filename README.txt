@@ -20,7 +20,7 @@ ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
 ========================================================================================
 Always update/ download Latest Bluestacks 4 (Android 7 Nougat)
 Install .Net 4.7.2
-Lowest resolution of your screen must be 1440 x 900, if you have lower, follow this article https://www.lifewire.com/how-to-change-your-netbooks-screen-resolution-2377863
+Lowest resolution of your screen must be 1440 x 900, if you have lower, consider purchasing this one https://amzn.to/2wYkHDg, or just simply plug into a higher resolution monitor.
 Go to Window Display Setting (Right Click) --> Scale and layout --> Set it to 100% (default setting)
 Turn off Bluestacks key binding visibility (F6)
 Set Bluestacks language to English
