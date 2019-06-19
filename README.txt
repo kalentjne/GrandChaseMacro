@@ -36,6 +36,12 @@ This macro is mouse interfered.
 ============================= RELEASE NOTE =============================================
 
 ========================================================================================
+1.33 changelog
+Fix high level wendy not summoned
+Enhance boss summon speed
+Fix Elesis's avatar (added 5* and all other skins)
+
+========================================================================================
 1.32 changelog
 Fix various bugs with Bluestacks release
 
