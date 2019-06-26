@@ -34,6 +34,11 @@ Only English is supported
 This macro is mouse interfered. 
 
 ============================= RELEASE NOTE =============================================
+========================================================================================
+1.34 changelog
+Optimize Boss Summon - now it will be more precise
+Optimize Boss participation - now it will fight boss from bottom to top
+Various bugs fixed
 
 ========================================================================================
 1.33 changelog
