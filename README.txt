@@ -4,18 +4,6 @@ Licensing Info:
 License VMWare 100$/Maximum 10 Accounts - life time upgrade
 License PC 10$/230k/PC life time upgrade 
 
-============================CONTACT AND SUPPORT=========================================
-========================================================================================
-Facebook: https://www.facebook.com/hieuvt137 
-Discord: KeithWong#9177
-
-============================PAYMENT INFO===============================================
-========================================================================================
-Payment Info:
-https://paypal.me/hieuvt137
-VCB CN HCM Vuong Trung Hieu 0071001096472
-ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
-
 ==============================INITIAL SETUP GUIDE:======================================
 ========================================================================================
 Always update/ download Latest Bluestacks 4 (Android 7 Nougat)
