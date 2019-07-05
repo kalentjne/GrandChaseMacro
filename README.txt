@@ -3,23 +3,37 @@
 Licensing Info: 
 License VMWare 100$/Maximum 10 Accounts - life time upgrade
 License PC 10$/230k/PC life time upgrade 
+If you don't have a pc/laptop, I offer a service to have your account macro-ed 20 hours/day, price would be 30$ monthly
+
+============================SUPPORT AND CONTACT INFO====================================
+========================================================================================
+Discord: KeithWong#9177
+Facebook: https://www.facebook.com/hieuvt137
+
+============================PAYMENT INFO================================================
+========================================================================================
+Local bank transfer: 
+VCB CN HCM Vuong Trung Hieu 0071001096472
+ACB CN Cong Hoa HCM Vuong Trung Hieu 13076868
+Paypal: hvuong2@csc.com
+
 
 ==============================INITIAL SETUP GUIDE:======================================
 ========================================================================================
 Always update/ download Latest Bluestacks 4 (Android 7 Nougat)
 Install .Net 4.7.2
 Lowest resolution of your screen must be 1440 x 900, if you have lower, consider purchasing this one https://amzn.to/2wYkHDg, or just simply plug into a higher resolution monitor.
-Go to Window Display Setting (Right Click) --> Scale and layout --> Set it to 100% (default setting)
+Go to Window Display Setting (Right Click) --> Scale and layout --> Set it to 100% (default setting) and restart
 Turn off Bluestacks key binding visibility (F6)
 Set Bluestacks language to English
 Set Bluestacks resolution to 1280x720 @320dpi
 Enable VT to ensure Bluestacks Performance
 Download Game (HD)
 Set game language to English
-Turn off chat / notification in Grand Chase game Setting
+Turn off chat / notification in GrandChase game Setting
 For which hero you choose to use ultimate - please equip him/her with default 6* avatar (except Elesis, all skins are supported)
 Only English is supported
-This macro is mouse interfered. 
+This macro is mouse interfered, unbannable, undetectable
 
 ============================= RELEASE NOTE =============================================
 ========================================================================================
