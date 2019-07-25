@@ -37,6 +37,10 @@ This macro is mouse interfered, unbannable, undetectable
 
 ============================= RELEASE NOTE =============================================
 ========================================================================================
+1.35 changelog
+Updated for latest game version
+
+========================================================================================
 1.34 changelog
 Optimize Boss Summon - now it will be more precise
 Optimize Boss participation - now it will fight boss from bottom to top
