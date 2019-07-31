@@ -37,6 +37,9 @@ This macro is mouse interfered, unbannable, undetectable
 
 ============================= RELEASE NOTE =============================================
 ========================================================================================
+1.36 changelog
+Updated for latest game version
+========================================================================================
 1.35 changelog
 Updated for latest game version
 
